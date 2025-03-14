@@ -17,7 +17,7 @@ ___
 - 🤖 **Ex-Robotics Geek**: Built an **autonomous drone**, worked with **Raspberry Pi** & **OpenCV**  
 ___
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white)  ![Room](https://img.shields.io/badge/Room-%23F24E1E.svg?style=for-the-badge&logo=android&logoColor=white)  ![Retrofit](https://img.shields.io/badge/Retrofit-%236DB33F.svg?style=for-the-badge&logo=android&logoColor=white)  ![Hilt](https://img.shields.io/badge/Hilt-%234FC08D.svg?style=for-the-badge&logo=android&logoColor=white)   
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
@@ -37,7 +37,7 @@ ___
 - **Tech Stack**: MVVM, Hilt, Coroutines, Room, Flow  
 
 ___
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sens-sens&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sens-sens&theme=dark&hide_border=false)<br/>
