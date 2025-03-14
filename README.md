@@ -39,9 +39,9 @@ ___
 ___
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sens-sens&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sens-sens&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sens-sens&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sens-sens&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sens-sens&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sens-sens&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ___
 ## 🌐 Socials
