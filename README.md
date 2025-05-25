@@ -14,7 +14,7 @@
 - ⚡ Passionate about **building tool-oriented native Android apps**  
 - 💙 Love working with **Jetpack Compose**
 - 💬 Ask me anything about Android, Flutter, or Linux
-- 🤖 **Ex-Robotics Geek**: Built an **autonomous drone**, worked with **Raspberry Pi** & **OpenCV**  
+- 🤖 **Ex-Robotics Geek**: Worked with **Raspberry Pi** & **OpenCV**  
 
 - - -
 
